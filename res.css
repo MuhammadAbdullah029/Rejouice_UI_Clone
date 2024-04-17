@@ -1,0 +1,111 @@
+@media (max-width: 600px) {
+    .loader{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .loader h3{
+        font-size: 7vw;
+    }
+    .page1{
+        height: 90vh;
+        
+    }
+    .cursor{
+        width: 15vw;
+        height: 15vw;
+    }
+    .cursor h5{
+        font-size: 3vw;
+    }
+    .page1-contant nav{
+        padding: 5vw;
+    }
+    nav h3{
+        font-size: 3vw;
+    }
+    nav h4{
+        font-size: 3vw;
+    }
+    .page1-contant h1{
+        font-size: 27vw;
+        padding-bottom: 9vw;
+    }
+    .page2{
+        height: 55vh;
+    }
+    .page3{
+        min-height: 455vw;
+    }
+    .elem{
+        padding: 4vw;
+    }
+    .elem h4{
+        font-size: 4vw;
+    }
+    .text{
+        font-size: 7vw;
+    }
+    .p3-top h4{
+        padding-bottom: 1.9vw;
+        font-size: 3vw;
+    }
+    .p3-top span{
+        font-size: 1.5vw;
+        color: white;
+        padding: 8px 11px;
+        border-radius: 10px;
+    }
+    .p3-top h2{
+        font-size: 6vw;
+    }
+    .texts h4{
+        font-size: 3vw;
+    }
+    .p3-elements{
+        flex-direction: column;
+    }
+    .p3-elements .box{
+        width: 100vw;
+        padding-top: 1.9vw;
+    }
+    .f3{
+        font-size: 9vw;
+    }
+    .video{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 65vw;
+        margin-bottom: 3vw;
+        /* background-color: black; */
+        margin-top: 19vw;
+    }
+    .page5 h1{
+        font-size: 18vw;
+    }
+    .swiper{
+        height: 13vh;
+    }
+    .swiper-slide img {
+        display: block;
+        width: 18%;
+        /* height: 30%; */
+        object-fit: cover;
+      }
+      .page5{
+        height: 40vh;
+    }
+    .page6{
+        height: 45vh;
+    }
+    .top6 .left h3{
+        font-size: 3vw;
+    }
+    .top6 .left button{
+        font-size: 3vw;
+    }
+    .right h5{
+        font-size: 3vw;
+    }
+}
